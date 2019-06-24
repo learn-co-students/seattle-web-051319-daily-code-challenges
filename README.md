@@ -33,3 +33,4 @@ or find one anywhere else, or make up your own!
 * <https://www.codewars.com>
 * <https://leetcode.com/>
 * <https://projecteuler.net/>
+* <https://www.w3resource.com/javascript-exercises/>
